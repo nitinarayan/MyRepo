@@ -4,3 +4,5 @@ print("And now it lives on GitHub - Jai Gurudev Ji")
 
 print("Thank you and Pranaam Swami Ji")
 print("Jai Hind")
+
+print("Pranaam ji")
